@@ -1,0 +1,160 @@
+{
+    "information": [
+      {
+        "userId": "1",
+        "title": "Computed tomography (CT)",
+        "description":"Computed tomography ( CT) is an imaging procedure that uses special x-ray equipment to create detailed pictures, or scans, of areas inside the body...",
+        "coverImg" : "https://nordis.true-emotions.studio/clinic/wp-content/uploads/sites/9/2017/12/uzi.jpg",
+        "details": {
+          "service": "Professional medical service of “Nordis",
+          "explanation": "On the basis of the medical center “Nordis” can be given a thorough examination of the body and get the advice of highly qualified specialists in various fields of medicine. According to studies, our doctors will make an individual program of prevention and treatment of identified diseases, directed to a surgical treatment if necessary.In today’s operational department conducted a wide range of operations under local and general anesthesia; as in “Nordis” provides services for the diagnosis and treatment of infertility, including the use of reproductive technologies (IVF).",
+          "treatmentCost": "50000"
+        },
+        "experts":[
+          {
+            "doctorName": "Surendu Biswas",
+            "speciality": "Cardio Specialist",
+            "fees": "$500/h",
+            "img" : "https://www.adventhealthneuroinstitute.com/sites/default/files/2020-01/doctor-focusing-on-reading-from-ipad-tablet.jpg"
+          },
+          {
+            "doctorName": "Kumar Risab",
+            "speciality": "GastroLiver Specialist",
+            "fees": "$150/h",
+            "img" : "https://th.bing.com/th/id/OIP.jcifBpj8s6CX634vKbDKaQHaE8?pid=ImgDet&w=1200&h=800&rs=1"
+          }
+        ]
+      }, 
+      {
+        "userId": "2",
+        "title": "Cardiology",
+        
+        "description":"The root card shows up in many heart-related words. Cardiologists frequently find themselves studying cardiograms, the charts of heart activity, made by machines called cardiographs. Heart attacks, and deaths caused by them,....",
+        
+        "coverImg" : "https://nordis.true-emotions.studio/clinic/wp-content/uploads/sites/9/2018/03/9adf1401a21b-768x512.jpg",
+        "details": {
+          "service": "Professional medical service of “Nordis",
+          "explanation": "On the basis of the medical center “Nordis” can be given a thorough examination of the body and get the advice of highly qualified specialists in various fields of medicine. According to studies, our doctors will make an individual program of prevention and treatment of identified diseases, directed to a surgical treatment if necessary.In today’s operational department conducted a wide range of operations under local and general anesthesia; as in “Nordis” provides services for the diagnosis and treatment of infertility, including the use of reproductive technologies (IVF).",
+          "treatmentCost": "50000"
+        },
+        "experts":[
+          {
+            "doctorName": "Michel Collins",
+            "speciality": "Medicine",
+            "fees": "$500/h",
+            "img" : "https://th.bing.com/th/id/OIP.KzhkFYSDG4MCq_NJU84z1QHaFj?pid=ImgDet&rs=1"
+          },
+          {
+            "doctorName": "Rifat Al Hamid",
+            "speciality": "Heart Specilist",
+            "fees": "$150/h",
+            "img" : "https://th.bing.com/th/id/OIP.9qVfMNY-L7sCsjZK5yiNcQHaE6?pid=ImgDet&w=550&h=365&rs=1"
+          }
+        ]
+      },
+      {
+        "userId": "3",
+        "title": "Diogonstic Laboratory",
+        "description":"Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "coverImg" : "https://nordis.true-emotions.studio/clinic/wp-content/uploads/sites/9/2017/12/diag.jpg",
+        "details": {
+          "service": "Professional medical service of “Nordis",
+          "explanation": "On the basis of the medical center “Nordis” can be given a thorough examination of the body and get the advice of highly qualified specialists in various fields of medicine. According to studies, our doctors will make an individual program of prevention and treatment of identified diseases, directed to a surgical treatment if necessary.In today’s operational department conducted a wide range of operations under local and general anesthesia; as in “Nordis” provides services for the diagnosis and treatment of infertility, including the use of reproductive technologies (IVF).",
+          "treatmentCost": "50000"
+        },
+        "experts":[
+          {
+            "doctorName": "James Paul",
+            "speciality": "Diabetics",
+            "fees": "$500/h",
+            "img" : "https://th.bing.com/th/id/OIP.f5iZJF7hDxGIb9miwwq8VgHaE8?pid=ImgDet&rs=1"
+          },
+          {
+            "doctorName": "Shimanto Tribe",
+            "speciality": "Eye Specialist",
+            "fees": "$150/h",
+            "img" : "https://th.bing.com/th/id/OIP.S25UQmMW9_klX7MEiXpM-AHaE8?w=239&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+          }
+        ]
+      },
+      {
+        "userId": "4",
+        "title": "Personal Psycologist",
+        
+        "description":"High quality health care and service. Advanced medical technologies and innovative diagnosis and treatment methods....",
+        
+        "coverImg" : "https://nordis.true-emotions.studio/clinic/wp-content/uploads/sites/9/2017/12/uzi.jpg",
+        "details": {
+          "service": "Professional medical service of “Nordis",
+          "explanation": "On the basis of the medical center “Nordis” can be given a thorough examination of the body and get the advice of highly qualified specialists in various fields of medicine. According to studies, our doctors will make an individual program of prevention and treatment of identified diseases, directed to a surgical treatment if necessary.In today’s operational department conducted a wide range of operations under local and general anesthesia; as in “Nordis” provides services for the diagnosis and treatment of infertility, including the use of reproductive technologies (IVF).",
+          "treatmentCost": "50000"
+        },
+        "experts":[
+          {
+            "doctorName": "Emad Ali",
+            "speciality": "Mental Illness",
+            "fees": "$500/h",
+            "img" : "https://th.bing.com/th/id/OIP.RVQXxbtsJcJ1ZWO9O25jaQHaE8?w=218&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+          },
+          {
+            "doctorName": "Sukumar Roy",
+            "speciality": "Physical and Mental Welbeing",
+            "fees": "$150/h",
+            "img" : "https://th.bing.com/th/id/OIP.y5dOhtJm4-YGiNn6PKZOeAHaE8?w=270&h=187&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+          }
+        ]
+      },
+      {
+        "userId": "5",
+        "title": "Laser Procedures",
+        "description":"The following are some of the more common indications: To help prevent blood loss by sealing small blood vessels To seal lymph vessels to help decrease swelling and decrease the spread of tumor cells To treat some skin conditions....",
+        "coverImg" : "https://nordis.true-emotions.studio/clinic/wp-content/uploads/sites/9/2018/04/surgeon-gown-768x512.jpg",
+        "details": {
+          "service": "Professional medical service of “Nordis",
+          "explanation": "On the basis of the medical center “Nordis” can be given a thorough examination of the body and get the advice of highly qualified specialists in various fields of medicine. According to studies, our doctors will make an individual program of prevention and treatment of identified diseases, directed to a surgical treatment if necessary.In today’s operational department conducted a wide range of operations under local and general anesthesia; as in “Nordis” provides services for the diagnosis and treatment of infertility, including the use of reproductive technologies (IVF).",
+          "treatmentCost": "50000"
+        },
+        "experts":[
+          {
+            "doctorName": "Jignesh Biswas",
+            "speciality": "Skin Treatment",
+            "fees": "$500/h",
+            "img" : "https://th.bing.com/th/id/OIP.-xWWFHUzLi53l3Q7oRWikgHaHa?w=189&h=189&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+          },
+          {
+            "doctorName": "Paul Rissan",
+            "speciality": "Endoscopy",
+            "fees": "$150/h",
+            "img" : "https://th.bing.com/th/id/OIP.2EeoH2U0ls4EpQ6D3CcSXQHaE8?w=237&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+          }
+        ]
+      },
+      {
+        "userId": "6",
+        "title": "Skin Disease",
+        
+        "description":"Allergies, also known as allergic diseases, are a number of conditions caused by hypersensitivity of the immune system to typically harmless substances in the environment.....",
+        
+        "coverImg" : "https://nordis.true-emotions.studio/clinic/wp-content/uploads/sites/9/2017/12/laser-768x512.jpg",
+        "details": {
+          "service": "Professional medical service of “Nordis",
+          "explanation": "On the basis of the medical center “Nordis” can be given a thorough examination of the body and get the advice of highly qualified specialists in various fields of medicine. According to studies, our doctors will make an individual program of prevention and treatment of identified diseases, directed to a surgical treatment if necessary.In today’s operational department conducted a wide range of operations under local and general anesthesia; as in “Nordis” provides services for the diagnosis and treatment of infertility, including the use of reproductive technologies (IVF).",
+          "treatmentCost": "50000"
+        },
+        "experts":[
+          {
+            "doctorName": "Lili Collins",
+            "speciality": "ENT",
+            "fees": "$500/h",
+            "img" : "https://th.bing.com/th/id/OIP.m7mX4GHKry9RcyLLf0RZWQHaEV?w=276&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+          },
+          {
+            "doctorName": "Riff Maeca",
+            "speciality": "Eye Specialist",
+            "fees": "$150/h",
+            "img" : "https://th.bing.com/th/id/OIP.AN97udMtq-d4_pwcvmd8KQHaEy?w=244&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+          }
+        ]
+      }
+    ]
+  }

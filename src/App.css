@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Lilita One', cursive;
+}
+
+h3,h5{
+  color: #3E215D
+}
+p{
+  color:#9A9483 ;
+  line-height: 1.6rem
+}
